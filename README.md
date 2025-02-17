@@ -1,10 +1,10 @@
-# EAGLE (a deep framework based on bipartitE grAph learninG for anomaLy dEtection)
+# When Bipartite Graph Learning Meets Anomaly Detection in Attributed Networks: Understand Abnormalities from Each Attribute [Neural Networks' 2025]
 
-When Bipartite Graph Learning Meets Anomaly Detection in Attributed Networks: Understand Abnormalities from Each Attribute (Peng, Z, Wang, Y, Lin, Q, Dong, B, & Shen, C, Neural Networks 2025): [https://doi.org/10.1016/j.neunet.2025.107194](https://doi.org/10.1016/j.neunet.2025.107194)
+This is the official PyTorch implementation of ''When Bipartite Graph Learning Meets Anomaly Detection in Attributed Networks: Understand Abnormalities from Each Attribute'' (Peng, Z, Wang, Y, Lin, Q, Dong, B, & Shen, C, Neural Networks 2025): [https://doi.org/10.1016/j.neunet.2025.107194](https://doi.org/10.1016/j.neunet.2025.107194)
 
 ![image](https://github.com/zpeng27/EAGLE/blob/main/eagle.png)
 
-The code is presented in an easy-to-understand pattern. You could further optimize it.
+The code is presented in an easy-to-understand pattern. You could further optimize it based on your own needs.
 
 ## Requirements 
 numpy>=1.23.5  
