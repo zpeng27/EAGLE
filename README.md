@@ -2,7 +2,7 @@
 
 When Bipartite Graph Learning Meets Anomaly Detection in Attributed Networks: Understand Abnormalities from Each Attribute (Peng, Z, Wang, Y, Lin, Q, Dong, B, & Shen, C, Neural Networks 2025): [https://doi.org/10.1016/j.neunet.2025.107194](https://doi.org/10.1016/j.neunet.2025.107194)
 
-![image](https://github.com/zpeng27/GMI/blob/master/illustration.jpg)
+![image](https://github.com/zpeng27/EAGLE/blob/main/eagle.png)
 
 The code is presented in an easy-to-understand pattern. You could further optimize it.
 
